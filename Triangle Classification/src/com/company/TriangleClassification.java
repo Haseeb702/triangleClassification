@@ -198,6 +198,7 @@ class TriangleClassification extends Canvas
   {
     int x, y, z;
     System.out.println("Yay! it pushed!");
+    System.out.println("I pushed from VS code");
     do
     {
       System.out.println("Provide three side lengths - 0 0 0 to terminate");
