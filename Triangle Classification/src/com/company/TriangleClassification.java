@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 class TriangleClassification extends Canvas
 {
-  
+ 
   @Override
   public void paint(Graphics g) 
   {
@@ -197,7 +197,7 @@ class TriangleClassification extends Canvas
   public static void main (String[] args)
   {
     int x, y, z;
-    
+    System.out.println("Yay! it pushed!");
     do
     {
       System.out.println("Provide three side lengths - 0 0 0 to terminate");
